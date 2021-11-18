@@ -1,1 +1,3 @@
-https://github.com/FrpFiles/bypass/raw/main/Master/Setting.apk
+https://github.com/addroms/bypass/raw/main/Master/Setting.apk
+
+https://raw.githubusercontent.com/addroms/bypass/main/Master/Setting.apk
